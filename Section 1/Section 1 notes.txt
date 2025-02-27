@@ -1,0 +1,11 @@
+﻿Notes:
+
+
+* Learned different operators like << left shift and >> right shift operators that are used to shift bits of the first operand a specified number of times based on the second operand
+* \n means new line
+* “C++ is a case-sensitive language. Case sensitivity means that your keywords and variable declarations must match the case. For example, the C++ keyword for outputting is cout. If you were to type Cout or COUT, the compiler would not know that your intention was to use the keyword cout.”
+* When you program in C++, you mainly go through 4 phases during development: Code — writing the program, Save — saving the program, Compile — compiling via the terminal, Execute — executing via the terminal
+* g++ and then the full file name to compile
+* ./ then machine code file to execute
+* -o then name of some sort to download executable machine code file from normal cpp code file
+* “A multi-line comment will comment out multiple lines and is denoted with /* to begin the comment, and */ to end the comment”
