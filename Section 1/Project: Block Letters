@@ -1,0 +1,13 @@
+//idk i like legos
+#include <iostream>
+
+int main() {
+  std::cout << "  OOO         A\n";
+  std::cout << "O     O      A  A\n";
+  std::cout << "O     O     A    A\n";
+  std::cout << "O     O     AAAAAA\n";
+  std::cout << "O     O     A    A\n";
+  std::cout << "O     O     A    A\n";
+  std::cout << "  OOO       A    A\n";
+  ;
+}
